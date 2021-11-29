@@ -1,5 +1,5 @@
 // js
-export {default as SearchMain } from './components/SearchMain'
+export { default as SearchMain } from './components/SearchMain'
 export { default as WeatherDetails } from './components/WeatherDetails'
 
 
