@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/birthday/static/css/main.26f6c227.chunk.css",
-    "main.js": "/birthday/static/js/main.4bdbf175.chunk.js",
-    "main.js.map": "/birthday/static/js/main.4bdbf175.chunk.js.map",
-    "runtime-main.js": "/birthday/static/js/runtime-main.d11abc0e.js",
-    "runtime-main.js.map": "/birthday/static/js/runtime-main.d11abc0e.js.map",
-    "static/js/2.482ec2a2.chunk.js": "/birthday/static/js/2.482ec2a2.chunk.js",
-    "static/js/2.482ec2a2.chunk.js.map": "/birthday/static/js/2.482ec2a2.chunk.js.map",
-    "index.html": "/birthday/index.html",
-    "static/css/main.26f6c227.chunk.css.map": "/birthday/static/css/main.26f6c227.chunk.css.map",
-    "static/js/2.482ec2a2.chunk.js.LICENSE.txt": "/birthday/static/js/2.482ec2a2.chunk.js.LICENSE.txt"
+    "main.css": "/wearher-app-api/static/css/main.26f6c227.chunk.css",
+    "main.js": "/wearher-app-api/static/js/main.4bdbf175.chunk.js",
+    "main.js.map": "/wearher-app-api/static/js/main.4bdbf175.chunk.js.map",
+    "runtime-main.js": "/wearher-app-api/static/js/runtime-main.c45f2f50.js",
+    "runtime-main.js.map": "/wearher-app-api/static/js/runtime-main.c45f2f50.js.map",
+    "static/js/2.482ec2a2.chunk.js": "/wearher-app-api/static/js/2.482ec2a2.chunk.js",
+    "static/js/2.482ec2a2.chunk.js.map": "/wearher-app-api/static/js/2.482ec2a2.chunk.js.map",
+    "index.html": "/wearher-app-api/index.html",
+    "static/css/main.26f6c227.chunk.css.map": "/wearher-app-api/static/css/main.26f6c227.chunk.css.map",
+    "static/js/2.482ec2a2.chunk.js.LICENSE.txt": "/wearher-app-api/static/js/2.482ec2a2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.d11abc0e.js",
+    "static/js/runtime-main.c45f2f50.js",
     "static/js/2.482ec2a2.chunk.js",
     "static/css/main.26f6c227.chunk.css",
     "static/js/main.4bdbf175.chunk.js"
